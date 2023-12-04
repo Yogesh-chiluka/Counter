@@ -1,0 +1,22 @@
+body{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+}
+#value{
+    font-size: 100px;
+}
+h1{
+    font-size: 50px;
+    padding-top:200px;
+}
+.btnCls{
+    padding-top: 20px;
+}
+.btn{
+    background-color: white;
+    border-radius: 6.23px;
+    padding: 5px 10px 5px;
+    margin: 0px 5px 0px;
+}
